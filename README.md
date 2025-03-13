@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://tu-url-de-banner.png" alt="Banner" width="100%">
-  <h1>👋 Hola, Daniel Pacheco</h1>
+  <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   
   <img src="https://komarev.com/ghpvc/?username=tu-username&color=blueviolet&style=flat-square" alt="Contador de visitas al perfil" />
