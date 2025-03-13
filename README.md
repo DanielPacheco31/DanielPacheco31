@@ -4,6 +4,11 @@
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   
   <img src="https://komarev.com/ghpvc/?username=tu-username&color=blueviolet&style=flat-square" alt="Contador de visitas al perfil" />
+  <!-- Contador de visitas -->
+  <p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/ANDRES-FLORIAN-SALAZAR/count.svg" />
+  </p>
   
   <p>
     <a href="https://tu-sitio-web.com"><img src="https://img.shields.io/badge/Website-tu--sitio--web.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -32,22 +37,4 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-username&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-username&layout=compact&theme=radical" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-username&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/tu-username/proyecto-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-username&repo=proyecto-1&theme=radical" />
-  </a>
-  <a href="https://github.com/tu-username/proyecto-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-username&repo=proyecto-2&theme=radical" />
-  </a>
-</div>
