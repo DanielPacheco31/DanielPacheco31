@@ -3,7 +3,7 @@
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   
-  <img src="https://komarev.com/ghpvc/DanielPacheco31&color=blueviolet&style=flat-square" alt="Contador de visitas al perfil" />
+  <img src="https://[komarev.com/ghpvc/DanielPacheco31](https://github.com/DanielPacheco31)&color=blueviolet&style=flat-square" alt="Contador de visitas al perfil" />
   <!-- Contador de visitas -->
   <p align="center"> 
     Visitor count<br>
