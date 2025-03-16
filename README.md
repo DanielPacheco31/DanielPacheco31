@@ -1,8 +1,8 @@
-<div align="center", height: 5%>
+<div align="center">
   <img src="https://i.pinimg.com/736x/17/fa/12/17fa123af066c303b45d7c79afdf99e0.jpg" alt="Banner">
   
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
-  <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
+  <p>Técnico Profesional en Programación de Software, apasionado por crear soluciones web innovadoras</p>
   <!-- Contador de visitas -->
   <p align="center"> 
     Visitor count<br>
@@ -10,20 +10,18 @@
   </p>
   
   <p>
-    <a href="https://tu-sitio-web.com"><img src="https://img.shields.io/badge/Website-tu--sitio--web.com-blue?style=flat-square&logo=google-chrome"></a>
-    <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="https://webdigitalroot.com"><img src="https://img.shields.io/badge/Website-webdigitalroot.com-blue?style=flat-square&logo=google-chrome"></a>
+    <a href="https://linkedin.com/in/daniel-pacheco-31"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:danielpacosta93@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
   </p>
 </div>
 
 ## 👨‍💻 Sobre mí
-
 - 🔭 Actualmente trabajo en Web Digital Root "Mi emprendimiento".
 - 🌱 Estoy aprendiendo Python con Django para crear aplicaciones web amigables y efectivas.
-- 📫 Cómo contactarme: danielpacosta93@gmail,com
+- 📫 Cómo contactarme: danielpacosta93@gmail.com
 
 ## 🛠️ Lenguajes y Herramientas
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -39,4 +37,24 @@
 
 ## 📊 Estadísticas de GitHub
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPacheco31&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📝 Proyectos Recientes
+- [CRUD_Basico_GO](https://github.com/DanielPacheco31/CRUD_Basico_GO) - Implementación básica de un CRUD en Go
+- [Web Digital Root](https://webdigitalroot.com) - Mi emprendimiento de desarrollo web y soluciones digitales
+
+## 📫 Contacto
+¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-pacheco-31)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielpacosta93@gmail.com)
