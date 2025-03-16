@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1Fcw96wxDN6m8OodVOaTDtiLcysJH6iiq/view?usp=sharing" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/17/fa/12/17fa123af066c303b45d7c79afdf99e0.jpg" alt="Banner" width="100%">
+
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   <!-- Contador de visitas -->
@@ -24,7 +25,7 @@
 ## 🛠️ Lenguajes y Herramientas
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
