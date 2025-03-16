@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGhGy017Qk/Er8chAFIjCV06hgXcpl9TQ/edit?utm_content=DAGhGy017Qk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="100%">
+  <img src="C:\Users\ADMIN\Downloads\Webdigitalsurge.png" alt="Banner" width="100%">
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   <!-- Contador de visitas -->
