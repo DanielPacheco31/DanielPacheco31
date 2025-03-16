@@ -11,7 +11,7 @@
   </p>
   
   <img src="https://profile-counter.glitch.me/DanielPacheco31/count.svg"/>
-</div>
+
 
 ---
 
@@ -59,3 +59,4 @@ const daniel = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daniel-pacheco-31)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielpacosta93@gmail.com)
+</div>
