@@ -1,24 +1,6 @@
-<div align="center">
-  <div class="banner">
+<div align="center", height: 5%>
   <img src="https://i.pinimg.com/736x/17/fa/12/17fa123af066c303b45d7c79afdf99e0.jpg" alt="Banner">
-  </div>
-  .banner {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px auto;
-  max-width: 800px; /* Ajusta el ancho máximo */
-  border-radius: 10px; /* Esquinas redondeadas */
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra elegante */
-  overflow: hidden; /* Esconde las partes de la imagen fuera del borde */
-}
-
-.banner img {
-  width: 100%; /* Asegura que la imagen se ajuste al contenedor */
-  height: auto; /* Mantiene la proporción de la imagen */
-}
-
-
+  
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   <!-- Contador de visitas -->
