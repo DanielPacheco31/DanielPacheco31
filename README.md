@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tu-url-de-banner.png" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/a1/7a/b7/a17ab7d95ed4a7e88f9fe8153b0b0376.jpg" alt="Banner" width="100%">
   <h1>👋 Hola, Soy Daniel Pacheco</h1>
   <p>Tecnico Profesional en Programacion de Software, apasionado por crear soluciones web innovadoras</p>
   <!-- Contador de visitas -->
