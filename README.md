@@ -43,6 +43,9 @@
 ## 🚀 Proyectos Destacados
 
 - **[CRUD_Basico_GO](https://github.com/DanielPacheco31/CRUD_Basico_GO)**: Implementación de operaciones CRUD básicas utilizando Go
+- **[ProyectoRootAppWeb](https://github.com/DanielPacheco31/ProyectoRootAppWeb.git)**: Implementacion de python con django.
+
+
 - **Web Digital Root**: Mi emprendimiento de desarrollo web y soluciones digitales
   - ✅ Diseño web personalizado
   - ✅ Desarrollo a medida
