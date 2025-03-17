@@ -3,77 +3,58 @@
   
   # ✨ Daniel Pacheco ✨
   
-  [![Website](https://img.shields.io/badge/Website-webdigitalroot.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webdigitalroot.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--pacheco--31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-pacheco-31)
-  [![Email](https://img.shields.io/badge/Email-danielpacosta93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpacosta93@gmail.com)
-  
   <p>
     <strong>Técnico Profesional en Programación de Software</strong><br>
     Desarrollando soluciones web innovadoras y funcionales
   </p>
   
+  [![Website](https://img.shields.io/badge/Website-webdigitalroot.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webdigitalroot.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--pacheco--31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-pacheco-31)
+  [![Email](https://img.shields.io/badge/Email-danielpacosta93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpacosta93@gmail.com)
+  
   <img src="https://profile-counter.glitch.me/DanielPacheco31/count.svg"/>
 </div>
 
----
-
 ## 💫 Sobre mí
 
-```javascript
-const daniel = {
-  role: "Desarrollador Web Full-Stack",
-  company: "Web Digital Root",
-  learning: ["Python", "Django", "Go"],
-  goals: "Crear aplicaciones web elegantes e intuitivas",
-  email: "danielpacosta93@gmail.com"
-};
+- 🔭 Fundador de **Web Digital Root**, mi propio emprendimiento digital
+- 🌱 Actualmente aprendiendo Python con Django para aplicaciones web
+- 💼 Desarrollador Web Full-Stack con experiencia en múltiples tecnologías
+- 💡 Apasionado por encontrar soluciones creativas a problemas complejos
+- 📧 Contacto: danielpacosta93@gmail.com
 
-🔭 Fundador de Web Digital Root, mi propio emprendimiento digital
-🌱 Constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades
-💡 Apasionado por encontrar soluciones creativas a problemas complejos
-🤝 Abierto a colaboraciones y proyectos interesantes
+## 🛠️ Tecnologías & Herramientas
 
-
-🛠️ Tecnologías & Herramientas
 <div align="center">
-Frontend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Backend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Frameworks & DB
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+  
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ### Backend
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  
+  ### Frameworks & DB
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
 </div>
 
-📊 Mis Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPacheco31&theme=tokyonight&hide_border=true&background=0D1117" width="700"/>
-</div>
+## 🚀 Proyectos Destacados
 
-🚀 Proyectos Destacados
-<div align="center">
-  <a href="https://github.com/DanielPacheco31/CRUD_Basico_GO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielPacheco31&repo=CRUD_Basico_GO&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-<div align="center">
-  <p>
-    <strong>Web Digital Root</strong> - Mi emprendimiento de desarrollo web y soluciones digitales<br>
-    ✅ Diseño web personalizado | ✅ Desarrollo a medida | ✅ SEO & Marketing Digital
-  </p>
-</div>
+- **[CRUD_Basico_GO](https://github.com/DanielPacheco31/CRUD_Basico_GO)**: Implementación de operaciones CRUD básicas utilizando Go
+- **Web Digital Root**: Mi emprendimiento de desarrollo web y soluciones digitales
+  - ✅ Diseño web personalizado
+  - ✅ Desarrollo a medida
+  - ✅ SEO & Marketing Digital
 
-📫 ¡Conectemos!
+## 📫 ¡Conectemos!
+
 <div align="center">
   <a href="https://linkedin.com/in/daniel-pacheco-31">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -85,7 +66,7 @@ Mostrar imagen
     <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
 </div>
+
 <div align="center">
   <p>¡Gracias por visitar mi perfil! 👋</p>
 </div>
-```
