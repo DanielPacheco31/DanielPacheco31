@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/17/fa/12/17fa123af066c303b45d7c79afdf99e0.jpg" alt="Banner" width="800">
-  
   # ✨ Daniel Pacheco ✨
   
   <p>
@@ -8,7 +6,6 @@
     Desarrollando soluciones web innovadoras y funcionales
   </p>
   
-  [![Website](https://img.shields.io/badge/Website-webdigitalroot.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webdigitalroot.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--pacheco--31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-pacheco-31)
   [![Email](https://img.shields.io/badge/Email-danielpacosta93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpacosta93@gmail.com)
   
@@ -19,7 +16,6 @@
 
 - 🔭 Fundador de **Web Digital Root**, mi propio emprendimiento digital
 - 🌱 Actualmente aprendiendo Python con Django para aplicaciones web
-- 💼 Desarrollador Web Full-Stack con experiencia en múltiples tecnologías
 - 💡 Apasionado por encontrar soluciones creativas a problemas complejos
 - 📧 Contacto: danielpacosta93@gmail.com
 
@@ -36,7 +32,6 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   
   ### Frameworks & DB
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -51,7 +46,6 @@
 - **Web Digital Root**: Mi emprendimiento de desarrollo web y soluciones digitales
   - ✅ Diseño web personalizado
   - ✅ Desarrollo a medida
-  - ✅ SEO & Marketing Digital
 
 ## 📫 ¡Conectemos!
 
@@ -61,9 +55,6 @@
   </a>
   <a href="mailto:danielpacosta93@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://webdigitalroot.com">
-    <img src="https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
 </div>
 
