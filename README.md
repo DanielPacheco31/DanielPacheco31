@@ -1,5 +1,5 @@
 <div align="center">
-  # ✨ Daniel Pacheco ✨
+  ✨ Daniel Pacheco ✨
   
   <p>
     <strong>Técnico Profesional en Programación de Software</strong><br>
