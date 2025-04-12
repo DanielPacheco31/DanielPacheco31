@@ -13,34 +13,33 @@ const daniel = {
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielPacheco31&style=flat-square&color=blue" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=DanielPacheco31&style=flat-square&color=00bfff" alt="Contador de visitas"/>
 </p>
 
 ## 🔧 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,sql,python,java,go,git" alt="Mis habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,sql,python,java,go,git&theme=dark" alt="Mis habilidades" />
 </p>
 
 ## 📊 Mis estadísticas
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPacheco31&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPacheco31&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 ## 📈 Gráfico de contribuciones
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielPacheco31&theme=radical" alt="Gráfico de contribuciones" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielPacheco31&theme=tokyonight" alt="Gráfico de contribuciones" />
 </p>
-
 
 ## 🐍 Gráfico de contribuciones (Snake animation)
 
@@ -54,7 +53,7 @@ const daniel = {
 
 <p align="center">
   <a href="mailto:tu-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/tu-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
