@@ -1,6 +1,8 @@
 # ¡Hola, soy Daniel! 👋
 
+<!-- Comenta esta línea hasta que subas tu banner personalizado
 <img src="https://raw.githubusercontent.com/DanielPacheco31/DanielPacheco31/main/banner.gif" alt="Banner animado" width="100%"/>
+-->
 
 ## 💫 Sobre mí
 ```javascript
@@ -26,35 +28,26 @@ const daniel = {
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielPacheco31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielPacheco31&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPacheco31&theme=radical" alt="Racha de contribuciones" />
 </p>
 
-## 📈 Gráfico de contribuciones
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielPacheco31&theme=radical" alt="Gráfico de contribuciones" />
-</p>
-
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DanielPacheco31&theme=radical&column=7" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielPacheco31&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trofeos" />
 </p>
 
 ## 🐍 Gráfico de contribuciones (Snake animation)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielPacheco31/DanielPacheco31/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielPacheco31/DanielPacheco31/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/DanielPacheco31/DanielPacheco31/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/DanielPacheco31/DanielPacheco31/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contáctame
 
@@ -72,6 +65,8 @@ const daniel = {
 
 ---
 
+<!-- Comenta esta línea hasta que subas tu footer personalizado
 <p align="center">
   <img src="https://raw.githubusercontent.com/DanielPacheco31/DanielPacheco31/main/footer.gif" alt="Footer animado" width="100%"/>
 </p>
+-->
